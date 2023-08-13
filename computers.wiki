@@ -1,0 +1,6 @@
+= computers = 
+
+== computers, programming, networking and computing in general ==
+
+    * [[permacomputing]]
+    * Zilog z80 

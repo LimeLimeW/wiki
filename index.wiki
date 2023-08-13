@@ -1,0 +1,11 @@
+= lime's adventures = 
+
+== a personal wiki on different explorations and experiments == 
+
+=== knowledge === 
+
+    * [[computers]] -- stuff on programming, computing and networking
+    * [[food]] -- stuff on food
+    * [[sound]] -- stuff on sound and music
+    * [[visuals]] -- stuff on visuals-making
+

@@ -1,0 +1,9 @@
+= visuals =
+
+stuff i currently use to make visuals : 
+    * TouchDesigner
+    * Max/MSP
+    * Resolume
+
+stuff i want to use : 
+    * a modification of the CHA/V video synth (https://jonasbers.com/chav/)
